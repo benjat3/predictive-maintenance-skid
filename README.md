@@ -5,7 +5,7 @@ This project consists of a low-cost, real-time vibration analysis skid designed 
 
 ## System Architecture
 *   **Hardware:** ESP32 Microcontroller, and sensors to be defined.
-*   **Software:** Python.
+*   **Software:** Python (with Pandas, Numpy, SciPy.)
 
 ## Repository Structure
 *   `/docs`: Project management, Gantt charts, and milestones.
